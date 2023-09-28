@@ -3,4 +3,5 @@ This is a simple question answering system created using BERT. This project aims
 provided by the user.
 
 ### About BERT
-BERT (Biderectional Encoder Representations from Transformers)
+BERT (Biderectional Encoder Representations from Transformers) 
+
