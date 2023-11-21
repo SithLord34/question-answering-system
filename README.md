@@ -4,4 +4,4 @@ provided by the user.
 
 ### About BERT
 BERT (Biderectional Encoder Representations from Transformers) 
-It is a natural language processing model.
+It is a natural language processing model. It was developed by researchers at Google in 2018. 
