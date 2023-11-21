@@ -4,4 +4,4 @@ provided by the user.
 
 ### About BERT
 BERT (Biderectional Encoder Representations from Transformers) 
-
+It is a natural language processing model.
